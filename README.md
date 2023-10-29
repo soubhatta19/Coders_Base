@@ -35,3 +35,5 @@ HTML CSS and Javascript
 2.Project Launch and Deployment Website - Netlify
 
 3.Tech Stacks Used - Web Developing Technologies like HTML, CSS, Javascript
+
+4.Animations used - GSAP
