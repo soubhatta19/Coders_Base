@@ -1,19 +1,18 @@
 # Coders Base
 An ultimate hub for finding coding resources for programmers
 
-# Soft CodeHack 2.0
+# Hack the Mountains 4.0
 
-"Soft CodeHack 2.0" is an exciting and inspiring 60 Hours Hackathon, brought to you by the PHICSIT community.
+"Hack the Mountains" is an exciting and inspiring Hackathon organised by HTM Global Community jointly with by Sudans Techocrats.
  
-# TEAM NAME - Geeks Army
+# TEAM NAME - Bong Hackodies
 
-TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
+TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
-2nd TEAMMATE - Ashish Manna(GitHub Username -Bidyut2022 )
+2nd TEAMMATE - Abhipreya Ghosh(GitHub Username -  )
 
-3rd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
+3rd TEAMMATE - Soumyadeep Banerjee(GitHub Username - soubanj270)
 
-4th TEAMMATE - Aritra Sur(GitHub Username -  AritraSur2001)
 
 # THEME - Open Innovation
 
