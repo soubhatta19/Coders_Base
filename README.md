@@ -11,7 +11,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
 2nd TEAMMATE - Abhipreya Ghosh(GitHub Username -  )
 
-3rd TEAMMATE - Soumyadeep Banerjee(GitHub Username - soubanj270)
+3rd TEAMMATE - Soumyadeep Banerjee(GitHub Username - )
 
 
 # THEME - Open Innovation
