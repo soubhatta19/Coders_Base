@@ -9,7 +9,7 @@ An ultimate hub for finding coding resources for programmers
 
 TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
-2nd TEAMMATE - Abhipreya Ghosh(GitHub Username -  )
+2nd TEAMMATE - Abhipreya Ghosh(GitHub Username - AbhipreyaGhosh)
 
 3rd TEAMMATE - Soumyadeep Banerjee(GitHub Username - )
 
